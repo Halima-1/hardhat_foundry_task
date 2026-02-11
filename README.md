@@ -79,19 +79,8 @@ Contract Address: 0xC27901c16B289Ea2ff70070E8fa0187369204dca
 
 Explorer: https://testnet.arcscan.app/
 
-🔐 Environment Variables
 
-Each framework uses environment variables for deployment.
-
-Example .env:
-
-PRIVATE_KEY=your_private_key
-RPC_URL=your_rpc_url
-
-
-⚠️ Never commit your private key.
-
-Learning Outcomes
+##Learning Outcomes
 
 This assignment demonstrates:
 
@@ -103,13 +92,3 @@ Deploying to multiple EVM-compatible testnets
 
 Managing multi-framework project structure
 
-
-Addresses for hardhat :
-Arc testnet :0x0c2ff1B1A520b6408152daf59bD2569519304AD3
-
-Lisk sepolia:0x0c2ff1B1A520b6408152daf59bD2569519304AD3
-
-Addresses for Foundry:
-Arc testnet:0xC27901c16B289Ea2ff70070E8fa0187369204dca
-
-Lisk sepolia:0xC27901c16B289Ea2ff70070E8fa0187369204dca
